@@ -330,7 +330,7 @@ jupyter notebook notebooks/recipe_traffic_prediction.ipynb
 ## 📁 Repository Structure
 
 ```
-recipe-traffic-prediction/
+Recipe Traffic Pred/
 │
 ├── data/
 │   └── recipe_site_traffic_2212.csv          # Raw dataset
