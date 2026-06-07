@@ -27,7 +27,6 @@
 - [Recommendations](#-recommendations)
 - [Technologies Used](#️-technologies-used)
 - [Installation](#️-installation)
-- [Insta](#-installation)
 - [Repository Structure](#-repository-structure)
 - [Author](#-author)
 
@@ -338,9 +337,6 @@ recipe-traffic-prediction/
 │
 ├── notebooks/
 │   └── recipe_traffic_prediction.ipynb       # Full analysis notebook
-│
-├── reports/
-│   └── project_report.md                     # Written project report
 │
 ├── presentation/
 │   └── Recipe_Traffic_Prediction.pptx        # Stakeholder presentation
